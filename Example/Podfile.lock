@@ -1,0 +1,16 @@
+PODS:
+  - MMPickerViewKit (0.1.0)
+
+DEPENDENCIES:
+  - MMPickerViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  MMPickerViewKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MMPickerViewKit: 9fbdff30032587055cca127d8031bc5a17b17fb2
+
+PODFILE CHECKSUM: d3674bb3d57f517e486a0024611beff841ea3172
+
+COCOAPODS: 1.4.0

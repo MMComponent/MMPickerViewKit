@@ -1,0 +1,6 @@
+framework module MMPickerViewKit {
+  umbrella header "MMPickerViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
