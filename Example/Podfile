@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMPickerViewKit_Example' do
+  pod 'MMPickerViewKit', :path => '../'
+
+  target 'MMPickerViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
